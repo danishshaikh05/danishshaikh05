@@ -48,12 +48,6 @@ Currently on an exciting journey to **build innovative web apps**, grow my start
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🚀 Currently Building
-
-- 🧩 [**DAIverse**](https://github.com/yourusername/daiverse) — A dream startup with future-ready tech and innovation.
-- 🧘‍♂️ [**Dailypath**](https://github.com/yourusername/dailypath) — Personalized fitness & wellness tracker with smart routines.
 
 ---
 
