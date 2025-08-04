@@ -49,14 +49,6 @@ Currently on an exciting journey to **build innovative web apps**, grow my start
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish&theme=tokyonight&hide_border=false" height="180"/>
-</p>
 
 ---
 
